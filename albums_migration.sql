@@ -1,5 +1,4 @@
-Use zenith_test_db;
-
+Use codeup_test_db;
 DROP TABLE IF EXISTS albums;
 
 CREATE TABLE albums (
