@@ -1,4 +1,4 @@
-USE codeup_test_db;
+USE zenith_test_db;
 
 DROP TABLE contacts;
 

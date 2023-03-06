@@ -2,8 +2,8 @@
 
 # Inserting a record
 
-USE codeup_test_db;
-
+--USE codeup_test_db;
+USE zenith_test_db;
 show tables;
 
 DROP TABLE IF EXISTS quotes;
